@@ -57,23 +57,23 @@ My long-term goal is to grow as a **professional Data Analyst** and transition i
 - Developed an ML pipeline using **Random Forest Classification**  
 - Feature engineering, model tuning, and result analysis  
 
-### 📊 Northwind Traders Analytics (Power BI)  
+### 📊 Northwind Traders Analytics   
 - End-to-end business analytics dashboard  
 - Data cleaning, transformation, and modeling using **Power Query**  
 
-### 🍔 Fast Food Corner Dashboard (Power BI)  
+### 🍔 Fast Food Corner Dashboard   
 - Sales, revenue, and performance analysis  
 - Business-focused KPIs and visual storytelling  
 
-### 🦠 COVID-19 Dashboard (Excel)  
+### 🦠 COVID-19 Dashboard   
 - Interactive Excel dashboard with charts and metrics  
 - Focused on trend analysis and clarity  
 
-### 📺 Amazon Prime Data Analytics (Ongoing)  
+### 📺 Amazon Prime Data Analytics   
 - Jupyter notebook + Streamlit  
 - Data modeling and visualization for **Amazon Prime Data Analytics**
 
-### 🦄 Unicorn Startup Analytics (Ongoing)
+### 🦄 Unicorn Startup Analytics 
 - Postgresql + Power-BI
 - Data modeling and visualization for **Unicorn-startup-style showcase** 
 

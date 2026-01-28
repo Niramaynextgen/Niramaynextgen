@@ -125,6 +125,6 @@ My long-term goal is to grow as a **professional Data Analyst** and transition i
 ## 🤝 Connect with Me  
 
 📧 **Email:** niramayshri0501@gmail.com  
-💼 **LinkedIn:** https://linkedin.com/in/niramayshrivastava  
+💼 **LinkedIn:** www.linkedin.com/in/niramay-shrivastava-403445348  
 💻 **GitHub:** https://github.com/Niramaynextgen  
 📍 **Location:** Gwalior, India  

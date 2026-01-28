@@ -28,7 +28,7 @@ My long-term goal is to grow as a **professional Data Analyst** and transition i
 ### Data Analysis & Machine Learning  
 <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" height="50"/>  
 <img src="https://numpy.org/images/logo.svg" alt="NumPy" height="50"/>  
-<img src="https://matplotlib.org/_static/logo2.svg" alt="Matplotlib" height="50"/>  
+<img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white"> 
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="50"/>  
 <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" height="50"/>  
 <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" height="45"/>

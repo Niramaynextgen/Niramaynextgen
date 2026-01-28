@@ -31,6 +31,7 @@ My long-term goal is to grow as a **professional Data Analyst** and transition i
 <img src="https://matplotlib.org/_static/logo2.svg" alt="Matplotlib" height="50"/>  
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="50"/>  
 <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" height="50"/>  
+<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" height="45"/>
 
 ### BI, Cloud & Tools  
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">  
@@ -69,8 +70,12 @@ My long-term goal is to grow as a **professional Data Analyst** and transition i
 - Focused on trend analysis and clarity  
 
 ### 📺 Amazon Prime Data Analytics (Ongoing)  
-- PostgreSQL + Power BI + UI  
-- Data modeling and visualization for **Unicorn-startup-style showcase**
+- Jupyter notebook + Streamlit  
+- Data modeling and visualization for **Amazon Prime Data Analytics**
+
+### 🦄 Unicorn Startup Analytics (Ongoing)
+- Postgresql + Power-BI
+- Data modeling and visualization for **Unicorn-startup-style showcase** 
 
 ---
 

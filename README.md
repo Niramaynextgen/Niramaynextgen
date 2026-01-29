@@ -20,29 +20,16 @@ My long-term goal is to grow as a **professional Data Analyst** and transition i
 ## 🛠️ My Skills  
 
 ### Programming, Databases & Backend  
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">  
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">  
-<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white">  
-<img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white">  
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white">  <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white">  
 
 ### Data Analysis & Machine Learning  
-<img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" height="50"/>  
-<img src="https://numpy.org/images/logo.svg" alt="NumPy" height="50"/>  
-<img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white"> 
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="50"/>  
-<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" height="50"/>  
-<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" height="45"/>
+<img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" height="50"/>  <img src="https://numpy.org/images/logo.svg" alt="NumPy" height="50"/>  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="50"/>  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" height="50"/>  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" height="45"/>
 
 ### BI, Cloud & Tools  
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">  
-<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white">  
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">  
-<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white">  
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white">  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">  <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white">  
 
 ### AI & Productivity  
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">  
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff">  
-<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff">  
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">  <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff">  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff">  
 
 ---
 

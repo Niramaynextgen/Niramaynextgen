@@ -70,8 +70,7 @@ My long-term goal is to grow as a **professional Data Analyst** and transition i
 
 **Madhav Institute of Technology & Science, Gwalior**  
 *B.Tech – Mathematics and Computing*  
-📅 Sept 2024 – Present  
-- Top 10% of the cohort  
+📅 Sept 2024 – Present   
 - Focus on algorithms, computing, and applied mathematics  
 
 ---

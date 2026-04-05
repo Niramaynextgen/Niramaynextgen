@@ -9,7 +9,7 @@ My long-term goal is to grow as a **professional Data Analyst** and transition i
 
 ## 🎯 Professional Summary  
 
-- B.Tech (Mathematics & Computing), **top 10% of cohort**
+- B.Tech (Mathematics & Computing)
 - Strong in **Python, PostgreSQL, Power BI**, and **Machine Learning**
 - Experience building **ML pipelines**, **analytics dashboards**, and **backend APIs**
 - Comfortable with **prompt engineering** and AI-assisted workflows

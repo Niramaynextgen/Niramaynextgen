@@ -1,4 +1,5 @@
-## 👋 About Me  
+## 👋![JakeIsGIF](https://github.com/user-attachments/assets/72bae1ec-b462-4ef4-af06-3f5df06509bd)
+ About Me  
 
 I’m **Niramay Shrivastava**, a B.Tech student in **Mathematics and Computing** with a strong focus on **Data Analytics, Machine Learning, and Backend Systems**.  
 I work on real, end-to-end projects — from raw data and databases to analytics dashboards and ML models.

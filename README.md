@@ -1,7 +1,7 @@
   ## <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="32" height="32">
-</picture>  About Me  
+</picture>About Me  
 
 I’m **Niramay Shrivastava**, a B.Tech student in **Mathematics and Computing** with a strong focus on **Data Analytics, Machine Learning, and Backend Systems**.  
 I work on real, end-to-end projects — from raw data and databases to analytics dashboards and ML models.

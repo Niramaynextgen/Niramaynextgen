@@ -60,10 +60,6 @@ My long-term goal is to grow as a **professional Data Analyst** and transition i
 - Jupyter notebook + Streamlit  
 - Data modeling and visualization for **Amazon Prime Data Analytics**
 
-### 🦄 Unicorn Startup Analytics 
-- Postgresql + Power-BI
-- Data modeling and visualization for **Unicorn-startup-style showcase** 
-
 ---
 
 ## 🎓 Education  
